@@ -1,0 +1,4 @@
+java -jar your-app.jar --spring.profiles.active=dev
+
+// env
+export SPRING_PROFILES_ACTIVE=dev
